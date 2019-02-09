@@ -9,7 +9,7 @@ De fleste udviklere er teknisk tunge og har bygget store, komplekse og superstab
 Vi er et 20 årigt gammel bureau med ca 45 ansatte (alle baseret på Frederiksberg), dog med vores høje alder i branchen så er vi stadigt med på altid at forbedre vores stack, teams og code-styles. (Se mere om Dwarf på: [https://dwarf.dk/](https://dwarf.dk/))
 
 
-##Vi leder efter:
+## Vi leder efter:
 
 - Min. 3 års erfaring med enten Laravel eller Drupal (men hvis du er et vildt talent uden mange års erfaring, så vil vi også høre fra dig)
 - AWS
@@ -20,7 +20,7 @@ Vi er et 20 årigt gammel bureau med ca 45 ansatte (alle baseret på Frederiksbe
 - Frontend erfaring med ReactJS eller VueJS (ikke nødvendigt men et plus)
 
 
-##Vi tilbyder:
+## Vi tilbyder:
 
 - Fuldtids ansættelse
 - At arbejde for nogle af DK’s sejeste kunder
@@ -30,7 +30,7 @@ Ungt miljø (Ja vi har øl, drinks, whiteboards, kaffe maskine, bordfodbold, dis
 - Løn efter kvalifikationer
 - Og meget mere...
 
-##Hvordan ansøger jeg?
+## Hvordan ansøger jeg?
 
 Send e-mail til Oliver Wang Hansen (CTO) [ohan@dwarf.dk](mailto:ohan@dwarf.dk), vedlæg CV og link(s) til repos eller sites / systemer du har lavet.
 
