@@ -1,6 +1,7 @@
 # PHP udvikler hos Dwarf 
 ###### Posted 9 Feb, 2019
 
+**Start dato: ASAP.**
 
 Vi hos Dwarf A/S på Frederiksberg søger 1-2 ekstra PHP udviklere til vores afdeling. Vi er et digitalt bureau der hører til i geek-enden af branchen. 
 
@@ -32,6 +33,6 @@ Ungt miljø (Ja vi har øl, drinks, whiteboards, kaffe maskine, bordfodbold, dis
 
 ## Hvordan ansøger jeg?
 
-Send e-mail til Oliver Wang Hansen (CTO) [ohan@dwarf.dk](mailto:ohan@dwarf.dk), vedlæg CV og link(s) til repos eller sites / systemer du har lavet.
+Følg linket herunder for at sende din ansøgning:
+[https://app.elvium.com/da/positions/5920/c/applications/new](https://app.elvium.com/da/positions/5920/c/applications/new)
 
-Start dato: ASAP.
